@@ -33,18 +33,12 @@
         <h3 class="text-muted">Homepage CS_313</h3>
       </div>
 
-      <div class="headImage">
-
-	  <a href="survey.php">Survey</a>
-	  
-      </div>
-
       <div class="row marketing">
 	  <br /><p>...Now this is embarrassing.</p><br />
       </div>
 
       <div class="footer">
-        <p>&copy; CMR 2015</p>
+        <p>&copy; CMR 2016</p>
       </div>
 
     </div> 

@@ -8,6 +8,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+     
+	
     <title>CS_313 Homepage</title>
 
     <!-- Bootstrap core CSS -->
@@ -31,24 +33,21 @@
         <h3 class="text-muted">Homepage CS_313</h3>
       </div>
 
-      <div class="row marketing">
-        <div class="col-lg-6">
-         
-           <h4>Personal Info:<h4/>
-			<p><i>Good day sir or madame; as the title suggests I am Sir Christopher of the Remillards</i></p>
-			<p><i>I hail from the humble province of Gulfport Mississippi and am in the pursuit of a squireship in the art of Computer Science</i></p>
-			<p><i>This quest has lead me to this great institution; the Brigham Young University of Idaho</i></p>
-			<p><i>At the end of my studies here I shall journey to a distant land in search of greener pastures</i></p>
-        </div>
+      <div class="headImage">
 
-       
+	  <a href="survey.php">Survey</a>
+	  
+      </div>
+
+      <div class="row marketing">
+	  <br /><p>...Now this is embarrassing.</p><br />
       </div>
 
       <div class="footer">
-        <p>&copy; CMR 2016</p>
+        <p>&copy; CMR 2015</p>
       </div>
 
     </div> 
-	
+
   </body>
 </html>
